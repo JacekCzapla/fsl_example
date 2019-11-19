@@ -1,0 +1,7 @@
+c:\users\jczap\documents\visual studio 2015\Projects\Fuzzy_FLS_test\Fuzzy_FLS_test\bin\Debug\Fuzzy_FLS_test.exe.config
+c:\users\jczap\documents\visual studio 2015\Projects\Fuzzy_FLS_test\Fuzzy_FLS_test\bin\Debug\Fuzzy_FLS_test.exe
+c:\users\jczap\documents\visual studio 2015\Projects\Fuzzy_FLS_test\Fuzzy_FLS_test\bin\Debug\Fuzzy_FLS_test.pdb
+c:\users\jczap\documents\visual studio 2015\Projects\Fuzzy_FLS_test\Fuzzy_FLS_test\bin\Debug\FLS.dll
+c:\users\jczap\documents\visual studio 2015\Projects\Fuzzy_FLS_test\Fuzzy_FLS_test\obj\Debug\Fuzzy_FLS_test.csprojResolveAssemblyReference.cache
+c:\users\jczap\documents\visual studio 2015\Projects\Fuzzy_FLS_test\Fuzzy_FLS_test\obj\Debug\Fuzzy_FLS_test.exe
+c:\users\jczap\documents\visual studio 2015\Projects\Fuzzy_FLS_test\Fuzzy_FLS_test\obj\Debug\Fuzzy_FLS_test.pdb
